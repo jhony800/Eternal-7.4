@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<items>
+  <item id="2389" article="a" name="training spear">
+    <attribute key="weight" value="1800" />
+    <attribute key="attack" value="5" />
+    <attribute key="charges" value="7000" />
+    <attribute key="description" value="Spear para treino com 7000 usos." />
+    <attribute key="preventDrop" value="1" />
+    <attribute key="type" value="throwing" />
+    <attribute key="decayTo" value="0" />
+    <attribute key="breakChance" value="100" />
+  </item>
+
+  <!-- Shield para treino -->
+  <item id="2525" article="a" name="training shield">
+    <attribute key="defense" value="15" />
+    <attribute key="description" value="Aumenta skill shielding + treino." />
+  </item>
+
+  <!-- Sword de treino -->
+  <item id="2392" article="a" name="training sword">
+    <attribute key="attack" value="5" />
+    <attribute key="description" value="Aumenta skill sword + treino." />
+  </item>
+
+  <!-- Club de treino -->
+  <item id="2423" article="a" name="training club">
+    <attribute key="attack" value="5" />
+    <attribute key="description" value="Aumenta skill club + treino." />
+  </item>
+
+  <!-- Axe de treino -->
+  <item id="2429" article="an" name="training axe">
+    <attribute key="attack" value="5" />
+    <attribute key="description" value="Aumenta skill axe + treino." />
+  </item>
+
+</items>
